@@ -1,6 +1,2 @@
-BearPressure/Saved/*
-BearPressure/Intermediate/*
-BearPressure/Saved/Logs/BearPressure.log
-BearPressure/Saved/Config/Windows/Engine.ini
-BearPressure/Intermediate/CachedAssetRegistry.bin
-*.json
+BearPressure\Saved\*
+BearPressure\Intermediate\*
